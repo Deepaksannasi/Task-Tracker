@@ -2,7 +2,7 @@
 
 A professional task management system built with Python CGI, MySQL, and modern web technologies. Manage your tasks efficiently with a beautiful dashboard, email reminders, and powerful task management features.
 
-![Dashboard](https://via.placeholder.com/800x450.png?text=Task+Tracker+Dashboard+Screenshot)
+![Screenshots/Dashboard](https://via.placeholder.com/800x450.png?text=Task+Tracker+Dashboard+Screenshot)
 
 ## 🌟 Features
 
