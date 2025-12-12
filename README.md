@@ -1,8 +1,7 @@
-# Task Tracker Pro 📋
+# Task Tracker 📋
 
 A professional task management system built with Python CGI, MySQL, and modern web technologies. Manage your tasks efficiently with a beautiful dashboard, email reminders, and powerful task management features.
 
-![Screenshots](https://via.placeholder.com/800x450.png?text=Task+Tracker+Dashboard+Screenshot)
 
 ## 🌟 Features
 
@@ -41,16 +40,16 @@ A professional task management system built with Python CGI, MySQL, and modern w
 ## 📸 Screenshots
 
 ### Register Page
-![Register Page](Screenshots/RegisterPage.png)
+![Register Page](screenshots/RegisterPage.png)
 
 ### Login Page
-![Login Page](Screenshots/LoginPage.png)
+![Login Page](screenshots/LoginPage.png)
 
 ### Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Task Management
-![Task Management](Screenshots/TaskManagement.png)
+![Task Management](screenshots/TaskManagement.png)
 
 
 
@@ -66,3 +65,15 @@ A professional task management system built with Python CGI, MySQL, and modern w
 ```bash
 git clone https://github.com/yourusername/task-tracker-pro.git
 cd task-tracker-pro
+```
+
+## 🔐 Default Login Credentials
+
+Use the following credentials to log in to the application:
+
+**Username:** surya@gmail.com 
+
+**Password:** 123456
+
+> ⚠️ *These credentials are for testing/demo purposes only.  
+Please change the password after logging in for the first time.*
